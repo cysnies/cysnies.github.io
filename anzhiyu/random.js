@@ -1,1 +1,1 @@
-var posts=["2023/06/24/Typora/","2023/06/30/Adobe/","2023/06/30/StudioOne/","2023/06/30/3dsmax/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
+var posts=["2023/06/24/Typora/","2023/06/30/Adobe/","2023/06/30/StudioOne/","2023/06/30/3dsmax/","2023/06/30/360browser/"];function toRandomPost(){pjax.loadUrl('/'+posts[Math.floor(Math.random() * posts.length)]);};
