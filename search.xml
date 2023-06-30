@@ -4,6 +4,31 @@
   
     
     <entry>
+      <title>QQ for PC 去广告绿色精简版</title>
+      <link href="/2023/06/30/QQ/"/>
+      <url>/2023/06/30/QQ/</url>
+      
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>腾讯QQ v9.7.8.29042 正式版2023.06.01</p><p>QQ Windows版最近更新：</p><ul><li>新增QQ小世界功能 (短视频导流入口)</li><li>隐私保护，增加隐私保护指引服务协议</li></ul><p>2021年1月 v9.4.2.27666 （重要更新点）</p><ul><li>移除了获取浏览器历史记录的相关代码逻辑</li></ul><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><ul><li><p>去除所有组件安全校验，无恶意软件损坏提示，禁止后台扫描硬盘</p></li><li><p>去除 BIN模块、插件组件、终端设备登陆、QS安全扫描、QP安全防护</p></li><li><p>无QQProtect(Q盾)安全防护驱动及组件脱离QQProtect组件依赖</p></li><li><p>禁止插件目录生成空文件夹，插件实现按需加载, 可任意删除插件</p></li><li><p>解除设置-文件管理-个人文件夹(消息记录等数据)保存位置的限制</p></li><li><p>保存位置可自定义保存到安装目录 (原版Win7以上系统该项灰色）</p></li><li><p>解锁勋章墙加速（强制点亮QQ勋章墙图标，0.2活跃天自动加速）</p></li><li><p>解除非VIP会员给对方发送在线文件单个文件大于4G大小的限制</p></li><li><p>解除隐身或离线给对方发送窗口抖动过于频繁限制可无限制发送</p></li><li><p>解除主面板宽高大小限制，调整面板宽度名称自缩放不显省略号</p></li><li><p>消息防撤回（好友对方发的消息撤回后仍然可见）</p></li><li><p>还原经典粘贴消息方式：即粘贴多条消息聊天记录[转发记录方式] 为 [经典文本方式]</p></li><li><p>去除主面板无用栏：QQ空间, 花样直播, 腾讯课堂，替换应用管理器查找按钮图标为灰色</p></li><li><p>去除主面板无用项：腾讯文档、QQ空间红点、个性装扮图标动画及红点、编辑个性签名</p></li><li><p>去除界面管理器：打卡,qq小世界,迷你腾讯网,大众点评,app应用中心,兴趣部落,我的购物</p></li><li><p>去除各种腾讯系产品推广：QQ浏览器、搜狗输入法、电脑管家的诱导安装弹窗推广提示</p></li><li><p>去除群公告广告、去群举报按钮、去传输文件侧边栏技巧提示及传视频QQ影音推荐推广</p></li><li><p>去除选项设置界面无用项：软件更新、安全推荐、订阅腾讯视频资讯, 每日精选商品资讯</p></li><li><p>禁止后台下载：TencentVideo, MiniBrowser, UnKownFileOpen, QQcall.exe等等</p></li><li><p>禁止后台生成堆积上G大小的腾讯产品相关日志数据文件 %AppData%\Logs</p></li><li><p>禁止打开播放接收视频文件后在后台下载腾讯视频安装包文件 TencentVideo</p></li><li><p>禁止点击网址链接和打开未知文件后台生成 UnKownFileOpen, QQcall.exe</p></li><li><p>禁止后台生成用户匿名信息统计数据和日志文件Bin*.db, beacon_report.log</p></li><li><p>禁止后台生成电脑管家下载器相关数据QQDoctor, TSFSCAN, QMReport.dat</p></li><li><p>移除聊天窗口鼠标指向网址的推广（QQ浏览器电脑管家推广）</p></li><li><p>移除聊天窗口鼠标指向图片的提示（图片快捷功能悬浮提示条）</p></li><li><p>移除聊天窗对话框烦人的弹窗及提示（消息漫游安全验证提示）</p></li><li><p>移除选项-清理文件-清理完毕后的窗口推广（电脑管家推广）</p></li><li><p>移除聊天窗口无用提示（已对你发送的消息进行了加密处理）</p></li><li><p>移除主菜单无用项（升级、红点、TIM推送、新功能介绍Tip）</p></li><li><p>删除了大量不必要的产品更迭历史遗留插件等相关组件</p></li><li><p>删除了QQ秀插件、去聊天窗口QQ秀，禁止聊天窗自动变宽</p></li><li><p>去除界面管理器：QQ频道，并禁止启动自动下载安装组件</p></li></ul><p>无人值守静默安装参数：&#x2F;ai &#x2F;gm2（默认路径&#x3D;D:\）<br>安装到指定位置：&#x2F;ai &#x2F;gm2 &#x2F;InstallPath&#x3D;”自定义路径”<br>例如：软件包.exe &#x2F;ai &#x2F;gm2 &#x2F;InstallPath&#x3D;”E:\MyProgram”<br>• 常规运行&#x3D;安装版（含开始菜单快捷方式和程序卸载项的快捷方式）<br>• 右键解压&#x3D;绿色版（本身不支持便携化的软件需手动运行绿化处理）</p><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://ed.tcea.top/ChaIndex/Softwares/Windows/IM/QQ/%E8%85%BE%E8%AE%AFQQ%E6%AD%A3%E5%BC%8F%E7%89%88-9.7.8.29042-%E7%BB%BF%E8%89%B2%E7%B2%BE%E7%AE%80%E7%89%88.exe">猹盘</a>    <a href="https://www.123pan.com/s/rIGSVv-3QFmH.html">123云盘</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 即时通讯 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
       <title>360安全浏览器去广告绿色便携版</title>
       <link href="/2023/06/30/360browser/"/>
       <url>/2023/06/30/360browser/</url>
