@@ -54,31 +54,6 @@
     
     
     <entry>
-      <title>WinRAR（压缩文件管理器）汉化破解版</title>
-      <link href="/2023/06/30/WinRAR/"/>
-      <url>/2023/06/30/WinRAR/</url>
-      
-        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>WinRAR压缩文件管理器是一款老牌压缩软件，提供对RAR和ZIP压缩文件的完整支持，并能够查看和解压ARJ、CAB、LZH、ACE、TAR、GZ、UUE、BZ2、JAR、ISO等多种格式的压缩文件，同时支持固实压缩、分卷压缩、压缩加密、自解压模块等自定义设置。</p><p>更新内容：</p><ul><li><p>支持 Zstandard 算法解包 .zst 和 .zipx 文件内容。</p></li><li><p>增加对 Windows 11 资源管理器关联菜单的支持。</p></li><li><p>不再支持Windows XP</p></li></ul><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><ul><li>以英文版做为母版 + 周明波版官方简体中文升级, 并做了部分修改</li><li>集成 Real key，安装后即是注册版</li><li>无视文件锁定（可编辑锁定的 RAR 文件, 方便修改注释、添加或删除文件）</li><li>汉化命令行版本 RAR.EXE 和 UnRAR.exe</li><li>修改资源管理器右键查看 RAR 注释字体为宋体9号</li><li>7z 模块 19.0.0.0 升级为最新版本 21.03</li></ul><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://ed.tcea.top/ChaIndex/Softwares/Windows/Files/Compress/WinRAR/WinRAR-6.22-x64-Final-%E7%83%88%E7%81%AB%E6%B1%89%E5%8C%96%E7%89%88.exe">猹盘</a>    <a href="https://www.123pan.com/s/rIGSVv-hQFmH.html">123云盘</a></p>]]></content>
-      
-      
-      <categories>
-          
-          <category> Windows </category>
-          
-      </categories>
-      
-      
-        <tags>
-            
-            <tag> 压缩 </tag>
-            
-        </tags>
-      
-    </entry>
-    
-    
-    
-    <entry>
       <title>WPS Office 2019专业增强版</title>
       <link href="/2023/06/30/WPS/"/>
       <url>/2023/06/30/WPS/</url>
@@ -96,6 +71,31 @@
         <tags>
             
             <tag> 办公 </tag>
+            
+        </tags>
+      
+    </entry>
+    
+    
+    
+    <entry>
+      <title>WinRAR（压缩文件管理器）汉化破解版</title>
+      <link href="/2023/06/30/WinRAR/"/>
+      <url>/2023/06/30/WinRAR/</url>
+      
+        <content type="html"><![CDATA[<h2 id="简介"><a href="#简介" class="headerlink" title="简介"></a>简介</h2><p>WinRAR压缩文件管理器是一款老牌压缩软件，提供对RAR和ZIP压缩文件的完整支持，并能够查看和解压ARJ、CAB、LZH、ACE、TAR、GZ、UUE、BZ2、JAR、ISO等多种格式的压缩文件，同时支持固实压缩、分卷压缩、压缩加密、自解压模块等自定义设置。</p><p>更新内容：</p><ul><li><p>支持 Zstandard 算法解包 .zst 和 .zipx 文件内容。</p></li><li><p>增加对 Windows 11 资源管理器关联菜单的支持。</p></li><li><p>不再支持Windows XP</p></li></ul><h2 id="说明"><a href="#说明" class="headerlink" title="说明"></a>说明</h2><ul><li>以英文版做为母版 + 周明波版官方简体中文升级, 并做了部分修改</li><li>集成 Real key，安装后即是注册版</li><li>无视文件锁定（可编辑锁定的 RAR 文件, 方便修改注释、添加或删除文件）</li><li>汉化命令行版本 RAR.EXE 和 UnRAR.exe</li><li>修改资源管理器右键查看 RAR 注释字体为宋体9号</li><li>7z 模块 19.0.0.0 升级为最新版本 21.03</li></ul><h2 id="下载地址"><a href="#下载地址" class="headerlink" title="下载地址"></a>下载地址</h2><p><a href="https://ed.tcea.top/ChaIndex/Softwares/Windows/Files/Compress/WinRAR/WinRAR-6.22-x64-Final-%E7%83%88%E7%81%AB%E6%B1%89%E5%8C%96%E7%89%88.exe">猹盘</a>    <a href="https://www.123pan.com/s/rIGSVv-hQFmH.html">123云盘</a></p>]]></content>
+      
+      
+      <categories>
+          
+          <category> Windows </category>
+          
+      </categories>
+      
+      
+        <tags>
+            
+            <tag> 压缩 </tag>
             
         </tags>
       
